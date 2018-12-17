@@ -30,7 +30,7 @@ filenames = []
 #print(filenames)
 
 
-conn=mysql.connector.connect(user='root', password='XXXXXXX',host='localhost',database='nivan')
+conn=mysql.connector.connect(user='root', password='XXXXXXX',host='localhost',database='YYYYY')
 mycursor = conn.cursor()
 
 sql = ""
