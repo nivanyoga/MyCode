@@ -25,8 +25,7 @@ exts = [".csv"]
 
 filenames = []
 
-#conn=mysql.connector.connect(user='root', password='Mira07051964',host='localhost',database='nivan')
-conn=mysql.connector.connect(user='root', password='Hannah10072002',host='localhost',database='nivan')
+conn=mysql.connector.connect(user='root', password='XXXXXXXXXXXXXXXXXXX',host='localhost',database='nivan')
 
 mycursor = conn.cursor()
 
